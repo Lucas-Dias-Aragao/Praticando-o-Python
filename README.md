@@ -17,7 +17,14 @@ Os arquivos podem ser baixados e executados em uma IDE, eu uso o PyCharm, para q
    <li>No jogo forca o jogador deve acertar o nome de alguma fruta</li>
    <li>O jogador pode errar até 6 vezes, pois na sétima... sinto muito :skull:</li>
 </ul>
-<p>Por enquanto é isso!</p>
+
+# 
+
+<h2>:triangular_flag_on_post: Exercícios</h2>
+
+<p>Resoluções que fiz de alguns exercícios em python. </p>
+
+* [Estrutura Sequencial](https://github.com/Lucas-Dias-Aragao/Praticando-o-Python/tree/main/exercicios/EstruturaSequencial)
     
     
     
