@@ -22,7 +22,7 @@ Os arquivos podem ser baixados e executados em uma IDE, eu uso o PyCharm, para q
 
 <h2>:triangular_flag_on_post: Exercícios</h2>
 
-<p>Resoluções que fiz de alguns exercícios em python. </p>
+Resoluções que fiz de alguns exercícios em python da lista [Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
 
 * [Estrutura Sequencial](https://github.com/Lucas-Dias-Aragao/Praticando-o-Python/tree/main/lista_de_exercicios/EstruturaSequencial)
 * [Estrutura de Decisao](https://github.com/Lucas-Dias-Aragao/Praticando-o-Python/tree/main/lista_de_exercicios/EstruturaDeDecisao)
