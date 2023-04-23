@@ -24,7 +24,8 @@ Os arquivos podem ser baixados e executados em uma IDE, eu uso o PyCharm, para q
 
 <p>Resoluções que fiz de alguns exercícios em python. </p>
 
-* [Estrutura Sequencial](https://github.com/Lucas-Dias-Aragao/Praticando-o-Python/tree/main/exercicios/EstruturaSequencial)
+* [Estrutura Sequencial](https://github.com/Lucas-Dias-Aragao/Praticando-o-Python/tree/main/lista_de_exercicios/EstruturaSequencial)
+* [Estrutura de Decisao](https://github.com/Lucas-Dias-Aragao/Praticando-o-Python/tree/main/lista_de_exercicios/EstruturaDeDecisao)
     
     
     
